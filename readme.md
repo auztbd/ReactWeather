@@ -1,0 +1,1 @@
+Simple weather application made with React (v0.14)
